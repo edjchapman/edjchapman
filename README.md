@@ -4,7 +4,7 @@ Senior Backend & Platform Engineer | Python, Django, AWS, Terraform
 
 I build backend systems, data pipelines, and cloud infrastructure for data-heavy products.
 
-Over 9 years, I've worked across PropTech and supply chain, with a focus on backend architecture, database engineering, CI/CD automation, infrastructure as code, and operational reliability.
+Over 9 years, I’ve worked across PropTech and supply chain, with a focus on backend architecture, database engineering, CI/CD automation, infrastructure as code, and operational reliability.
 
 ## What I work on
 
@@ -32,13 +32,13 @@ Supply-chain platform spanning Django microservices, React, React Native, and GC
 - Built warehouse management software used daily by 50+ staff
 - Led migration from on-prem infrastructure to Google Cloud Platform
 - Tech Lead in the final year, mentoring engineers and improving CI/CD
-- 12,600+ commits as #1 contributor across 6 years of platform development
+- Top code contributor across 6 years of platform development
 
 ## Stack
 
-**Backend:** Python, Django, DRF, PostgreSQL, Celery, Redis
-**Infrastructure:** AWS, Terraform, Docker, GitHub Actions, ECS, RDS, CloudWatch, DMS
-**Frontend:** React, TypeScript
+**Backend:** Python, Django, DRF, PostgreSQL, Celery, Redis  
+**Infrastructure:** AWS, Terraform, Docker, GitHub Actions, ECS, RDS, CloudWatch, DMS  
+**Frontend:** React, TypeScript  
 **AI-assisted workflows:** Claude, DSPy, prompt engineering
 
 ## Links
