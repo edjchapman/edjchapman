@@ -1,6 +1,6 @@
 # Ed Chapman
 
-Senior Backend & DevOps Engineer | Python/Django, AWS, Terraform
+Senior Backend & Platform Engineer | Python/Django, AWS, Terraform
 
 9+ years building data-intensive systems across PropTech, energy, and supply chain. I specialise in backend architecture, infrastructure as code, CI/CD automation, and database engineering.
 
